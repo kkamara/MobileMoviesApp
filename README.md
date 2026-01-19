@@ -1,3 +1,5 @@
+<img src="https://github.com/kkamara/useful/blob/main/MoviesMobileApp.jpg?raw=true" alt="MoviesMobileApp.jpg" height="500"/> <img src="https://github.com/kkamara/useful/blob/main/MoviesMobileApp2.jpg?raw=true" alt="MoviesMobileApp2.jpg" height="500"/> <img src="https://github.com/kkamara/useful/blob/main/MoviesMobileApp3.jpg?raw=true" alt="MoviesMobileApp3.jpg" height="500"/>
+
 # MobileMoviesApp 👋
 
 This repository follows JavaScript Mastery's course Build and Deploy 3 Full-Stack React Native Apps That'll Get You Hired | Full 10-Hour Course at https://www.youtube.com/watch?v=BTfcnxXevm0 .
